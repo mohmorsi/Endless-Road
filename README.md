@@ -1,4 +1,4 @@
-# Endless-Road
+# Endless Road
 
 ## Demo
 <div align="center">

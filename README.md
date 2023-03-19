@@ -15,6 +15,8 @@
 
 ## Introduction
 
+Endless Road is a must-have for any web developer who wants to create visually stunning web pages that grab the attention of their audience. The animation effect is not only eye-catching but also easy to integrate into any web page with minimal coding. It's a unique way to add interest and excitement to an otherwise static website. Additionally, the project is an excellent learning opportunity for those who want to get into CSS animations. The code is well-structured, easy to understand, and can be customized to fit your specific needs. By adding the Endless-Road animation effect to your website, you can create a truly immersive experience that keeps your audience engaged for longer periods of time. Don't miss out on this incredible opportunity to take your web development skills to the next level and make your web pages truly stand out.
+
 
 ## HTML Code
 

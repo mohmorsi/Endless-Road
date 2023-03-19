@@ -20,6 +20,17 @@ Endless Road is a must-have for any web developer who wants to create visually s
 
 ## HTML Code
 
+• Includes a title and a link to an external CSS file.
+
+• The body of the HTML contains a div element with a class name of "infinite."
+
+• The "infinite" div is used to apply the Endless Road animation effect to the element.
+
+• Inside the "infinite" div, there is another div element with a class name of "shadow."
+
+• The "shadow" div is used to add a shadow effect to the animation.
+
+• This code is a basic implementation of the Endless Road animation effect and can be customized by modifying the CSS file.
 
 ## CSS Code
 

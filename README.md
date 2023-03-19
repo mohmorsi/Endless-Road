@@ -21,7 +21,15 @@
 
 ## CSS Code
 
+•`body`: This sets some basic styles for the entire page, including setting the margin and padding to 0 and centering the content both horizontally and vertically using the flex display property.
 
+•`.infinite`: This is the main container element for the infinite road animation. It is given a fixed width and height, and a dark grey background color. The transform property is used to give it a 3D perspective and rotate it slightly.
+
+•`.infinite:before`: This is a pseudo-element that is positioned on top of the .infinite container. It creates the illusion of an endless road by using a linear gradient that is animated using the @keyframes rule to create a moving pattern.
+
+•`.infinite:after`: This is another pseudo-element that creates a shadow effect at the bottom of the infinite road animation.
+
+•`.shadow`: This is a separate element that creates a transparent gradient effect at the bottom of the infinite road animation to give the appearance of a shadow.
 
 
 
